@@ -14,7 +14,6 @@ function AddTask() {
 
   const handleSubmitNewTodo: FormEventHandler<HTMLFormElement> = async (e) => {
     e.preventDefault();
-    console.log(newTextValue);
     await addTodo({
       id: uuidv4(),
       text: newTextValue,

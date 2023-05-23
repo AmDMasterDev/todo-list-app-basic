@@ -2,23 +2,15 @@
   "tasks": [
     {
       "id": 1,
-      "text": "Buy milk with some orange"
+      "text": "Buy milk with some orang"
     },
     {
       "id": 2,
-      "text": "Go shopping"
+      "text": "Go shopping at 10am"
     },
     {
       "id": 3,
       "text": "Sleep time"
-    },
-    {
-      "id": "4",
-      "text": "Learn Nextjs"
-    },
-    {
-      "id": "b70dbdcd-1696-453b-ab59-5ad87b99e666",
-      "text": "Learnt Router!"
     }
   ]
 }
