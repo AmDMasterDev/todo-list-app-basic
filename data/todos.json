@@ -1,16 +1,8 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Buy milk with some orang"
-    },
-    {
-      "id": 2,
-      "text": "Go shopping at 10am"
-    },
-    {
-      "id": 3,
-      "text": "Sleep time"
+      "id": "4ca9e544-6da3-43de-842d-bbb3ce1f0843",
+      "text": "Hello there!"
     }
   ]
 }
