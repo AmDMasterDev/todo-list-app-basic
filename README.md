@@ -18,3 +18,5 @@ npm run json-server
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+Tutorial Link That Was Followed:
+https://youtu.be/wi2xdrpmJNk
